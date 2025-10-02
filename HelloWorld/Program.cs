@@ -11,4 +11,5 @@ void PrintNumber(int nmrA, int nmrB) //Räkna
     Console.WriteLine(nmrA + nmrB);
 }
 
-PrintNumber(3, 5);
+PrintNumber(3, 9);
+
