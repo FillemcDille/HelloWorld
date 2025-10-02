@@ -4,7 +4,9 @@ Console.WriteLine("Hello, World!");
 
 Console.WriteLine("Thred");
 Console.WriteLine("Which Thread");
+Console.WriteLine("new one");
 
-Console.WriteLine("Hi!");
-Console.WriteLine("Hi!");
-Console.WriteLine("Hi!");
+public void PrintNumber(int nummer)//Räkna 
+{
+
+}
