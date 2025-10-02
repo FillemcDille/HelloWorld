@@ -1,12 +1,14 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System.Data;
 
+Console.WriteLine("Hello, World!");
 
 Console.WriteLine("Thred");
 Console.WriteLine("Which Thread");
 Console.WriteLine("new one");
 
-public void PrintNumber(int nummer)//Räkna 
+void PrintNumber(int nmrA, int nmrB) //Räkna 
 {
-
+    Console.WriteLine(nmrA + nmrB);
 }
+
+PrintNumber(3, 5);
